@@ -9,7 +9,10 @@ ID: CT08DUD
 Domain: POWER BI
 Duration: Dec 2024-Jan 2025
 
+Mentor : Nilla Santhosh
+
 Sales-Dashboard
+
 Problem Statement
 
 This sales dashboard provides valuable insights into sales performance across various channels and product categories. However, it also highlights areas for improvement. For instance, the dashboard reveals a significant disparity between online and direct sales volumes, with online sales exceeding direct sales by 20%. Despite this higher volume, online sales appear less profitable.
